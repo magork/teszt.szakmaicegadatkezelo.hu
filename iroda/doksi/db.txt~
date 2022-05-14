@@ -1,0 +1,18 @@
+user
+----
+usid		int (auto)	user azonosító		
+usemail		vc(255)		user email		''
+usname		vc(255)		usernév			''
+uspass		vc(255)		user jelszó		''
+uslim		int		user céglimit		0
+
+ceglista
+--------
+cid		int (auto)	cég azonosító		
+cegnev 		vc(255)		cég neve		''
+cim		vc(255)		cég címe		''
+uzletkid	int		üzeltkötő azonosítója	0
+felvdat		date		felvitel dátuma		'0000-00-00'
+moddat		date		módosítás dátuma	'0000-00-00'
+allapot		int		állapota 		0		(0: még nem hívott, 1: Már visszahívott, 2: Visszahívni, 3:Elutasítva | 4: sztornó, 5: regisztrált, 6:regisztráció alatt, 7:ajánlat küldve)
+mej		text		megjegyzés		''

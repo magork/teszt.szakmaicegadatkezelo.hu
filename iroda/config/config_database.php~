@@ -1,0 +1,9 @@
+<?php
+
+/* Mysql változók */
+define( '_MYDB_HOST', 'localhost' );
+define( '_MYDB_USER' , 'root' );
+define( '_MYDB_PASS' , 'paxpax' );
+define( '_MYDB_DATABASE' , 'kornyezetvedelem' );
+
+?>

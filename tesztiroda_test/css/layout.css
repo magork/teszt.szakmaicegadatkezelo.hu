@@ -1,0 +1,420 @@
+
+/*********************************************
+    HYPERLINK STYLES
+*********************************************/
+
+a {
+	color:#00609F;
+	text-decoration:none;
+}
+
+a:hover {
+	color: #000;
+}
+.nav a{
+    padding-left: 4px;
+}
+.text{
+    background: transparent url( ../images/inp_bg.jpg ) repeat-x 0px 0px;
+    margin-right: 10px;
+    padding-left: 5px;
+    padding-top: 3px;
+    color: #6DCDF3;
+    border: 1px solid #006BA3;
+    height: 21px;
+    color: #333;
+    width: 220px;
+}
+
+
+.text select{
+    background: transparent;
+    font-size: 11px;
+    border: none;
+    float: right;
+}
+
+input.wide{
+    width: 350px;
+}
+
+input.big_button{
+    background: transparent url( ../images/big_button.jpg ) repeat-x 0px 0px;
+    font-size: 11px;
+    color: #6DCDF3;
+    width: 138px;
+    padding-top: 3px;
+    height: 35px;
+    font-weight: bold;
+    border: 1px solid #6DCDF3;
+}
+
+
+/*********************************************
+    GENERAL STYLES
+*********************************************/
+
+* {
+    margin:0px;
+    padding:0px;
+}
+
+body {
+	font-family: Arial;
+	font-size: 14px;
+	background: #34BDF3 url( ../images/top_blue.jpg ) repeat-x 0px 0px;
+	letter-spacing:0px;
+	margin:0;
+	padding:0;
+	line-height: 20px;
+	width: 100%;
+}
+
+#notice{
+	border-bottom: 1px solid #96c5d9;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	position: relative;
+}
+	#notice #adv{
+		background: #DEF2FB;
+		position: absolute;
+		right: 10px;
+		top: -70px;
+		border: 1px solid #54B6E7;
+		padding: 10px;
+		color: #999;
+		font-size: 10px;
+	}
+	#notice #adv a{
+		color: #00609F;
+		font-size: 12px;
+		display: block;
+	}
+	
+	
+div#wrapper {
+	background: #0575BF url( ../images/grad.jpg ) repeat-x 0px 0px;
+    width:970px;
+    margin: auto;
+    text-align: left;
+    position: relative;
+    padding-bottom: 18px;
+}
+
+    .oszlop{
+        width: 30%;
+        padding: 10px;
+        border-right: 1px solid #71D2F3;
+        float: left;
+        font-size: 12px;
+    }
+
+    .oszlop u a{
+        font-weight: bold;
+        text-decoration: underline;
+        margin-top: 5px;
+        font-size: 14px;
+    }
+
+    .oszlop a{
+        padding-right: 5px;
+    }
+
+    div#menu_line {
+        position: relative;
+        width:970px;
+        height: 98px;
+        background: transparent url( ../images/top_blue.jpg ) repeat-x 0px 0px;
+    }
+
+        div#buttons{
+            width: 410px;
+            position: absolute;
+            right: -20px;
+            bottom: 10px;
+        }
+
+            div#b2b{
+                width: 171px;
+                color: #fff;
+                font-size: 11px;
+                font-weight: bold;
+                padding-left: 10px;
+                cursor: pointer;
+                padding-top: 8px;
+                height: 26px;
+                background: transparent url( ../images/bejel.jpg ) no-repeat 0px 0px;
+                float: left;
+            }
+
+            div#searchbar{
+                background: transparent url( ../images/search.jpg ) no-repeat 0px 0px;
+                height: 26px;
+                color: #fff;
+                font-size: 11px;
+                font-weight: bold;
+                width: 210px;
+                padding-left: 10px;
+                padding-top: 8px;
+                height: 26px;
+                float: left;
+                position: relative;
+            }
+
+            div#searchbar input{
+                background: transparent;
+                position: absolute;
+                left: 65px;
+                width: 115px;
+                top: 8px;
+                border: none;
+            }
+
+            div#searchbar #submit{
+                position: absolute;
+                top: 0px;
+                width: 36px;
+                height: 36px;
+                cursor: pointer;
+                right: 2px;
+            }
+            
+        div#logo {
+            background: transparent url( ../images/logo.jpg ) no-repeat 0px 0px;
+            float: left;
+            width: 272px;
+            cursor: pointer;
+            height: 98px;
+        }
+			#logo.dotcom{
+				width: 294px;
+				background: transparent url( ../images/logo_com.jpg ) no-repeat 0px 0px;
+			}
+        div#menu {
+            float: right;
+        }
+
+            div#menu ul li{
+                float: left;
+                list-style-type: none;
+            }
+
+            div#menu ul li a{
+                background: transparent url( ../images/menu.jpg ) repeat-x 0px 0px;
+                color: #fff;
+                display: block;
+                float: left;
+                font-size: 12px;
+                font-weight: bold;
+                height: 21px;
+                padding-top: 25px;
+                padding-left: 10px;
+                padding-right: 10px;
+                border-right: 1px solid #0079BA;
+            }
+            
+            div#menu ul li a:hover{
+                background: none;
+            }
+            
+            div#menu ul li a.active{
+                background: transparent url( ../images/menu.jpg ) repeat-x 0px 0px;
+            }
+
+    div#login {
+        background: transparent url( ../images/login_bg.jpg ) repeat-x 0px 10px;
+        width:923px;
+        display: none;
+        padding-left: 10px;
+        margin: auto;
+        height: 120px;
+        padding-top: 10px;
+        position: relative;
+        clear: left;
+    }
+    
+        div#login h3{
+            margin-top: 10px;
+            margin-bottom: 20px;
+            font-size: 12px;
+            color: #fff;
+        }
+
+        div#login a{
+            color: #fff;
+            margin: 5px;
+            display: block;
+            float: left;
+        }
+        
+        div#login table tr td{
+            color: #6DCDF3;
+            font-size: 12px;
+        }
+
+        div#login table tr input.button{
+            background: transparent url( ../images/button_bg.jpg ) repeat-x 0px 0px;
+            font-size: 11px;
+            color: #6DCDF3;
+            width: 138px;
+            height: 29px;
+            font-weight: bold;
+            border: 1px solid #6DCDF3;
+        }
+
+        div#login table tr input.email{
+            background: transparent url( ../images/inp_bg.jpg ) repeat-x 0px 0px;
+            color: #333;
+            height: 21px;
+            padding-top: 3px;
+            padding-left: 5px;
+            width: 200px;
+            margin-right: 10px;
+            border: 0px solid #000;
+        }
+
+        div#login table tr input.pass{
+            background: transparent url( ../images/inp_bg.jpg ) repeat-x 0px 0px;
+            margin-right: 10px;
+            padding-left: 5px;
+            padding-top: 3px;
+            color: #6DCDF3;
+            border: 0px solid #000;
+            height: 21px;
+            color: #333;
+        }
+
+        div#login table tr td#txt{
+            color: #fff;
+            padding-left: 10px;
+            font-size: 11px;
+            line-height: 12px;
+        }
+
+    div#header {
+        background: transparent url( ../images/header.jpg ) no-repeat 0px 7px;
+        width:933px;
+        margin: auto;
+        margin-top: 5px;
+        height: 200px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: relative;
+        clear: left;
+        overflow: hidden;
+    }
+
+    #swf_anim{
+        position: absolute;
+        left: 0px;
+        top: 7px;
+    }
+    
+    #oszlop_wrapper{
+        padding-top: 65px;
+        padding-left: 10px;
+        width:923px;
+        position: relative;
+        background: #fff url( ../images/cont_bg.jpg ) repeat-x 0px 0px;
+        margin: auto;
+        font-size: 12px;
+        color: #00709F;
+    }
+    
+        .text_block{
+            width: 865px;
+            border-bottom: 1px solid #B9E6EC;
+            margin-left: -10px;
+            padding: 34px;
+            padding-top: 20px;
+        }
+        
+        #table_wrapper{
+            margin-left: -10px;
+        }
+                
+                #table_wrapper table thead th{
+                    background: url( ../images/th.jpg ) repeat-x 0px 0px;
+                    height: 40px;
+                    padding: 3px;
+                    font-size: 14px;
+                    border-right: 0px solid #333;
+                    color: #71D2FD;
+                }
+                
+                #table_wrapper table tr td{
+                    color: #00709F;
+                    padding: 3px;
+                    border-right: 1px solid #74D2F8;
+                    border-bottom: 1px solid #74D2F8;
+                }
+                
+                #table_wrapper table{
+                    width: 933px;
+                }
+                
+                #table_wrapper table thead{
+                    padding: 0px;
+                    margin: 0px;
+                }
+
+        #title{
+            width:400px;
+            height: 46px;
+            position: absolute;
+            background-repeat: no-repeat;
+            left: 0px;
+            top: 0px;
+        }
+    
+    div#subnav{
+        margin: auto;
+        background: #0575BF;
+        margin-bottom: 10px;
+        width: 586px;
+        padding-top: 5px;
+        padding-left: 20px;
+        padding-bottom: 5px;
+        color: #fff;
+    }
+        div#subnav a{
+            color: #fff;
+            font-size: 11px;
+            padding-right: 5px;
+            padding-left: 5px;
+        }
+
+    div#footer{
+        margin-top: 20px;
+        padding-bottom: 35px;
+        color: #034080;
+        width: 586px;
+        margin: auto;
+        text-align: center;
+        font-size: 11px;
+        font-weight: bold;
+    }
+
+.c2{
+    border-right: none;
+}
+
+.thumbs{
+    float: right;
+    overflow: hidden;
+}
+.thumbs a img{
+    border: 0px;
+}
+.thumbs a{
+    margin: 3px;
+}
+.imagesw{
+    position: absolute; right: 10px; top: 10px;
+    width: 475px;
+}
+
+#banners img{
+  margin-right: 10px;
+}

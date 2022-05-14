@@ -1,0 +1,461 @@
+[15-Apr-2009 14:36:10] PHP Warning:  Incorrect key file for table './unioscegtudakoz/switch.MYI'; try to repair it in /home/uniost01/public_html/mysql/ezsql/ez_sql_mysql.php on line 175
+[21-May-2009 15:55:35] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 15:55:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 15:56:55] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 15:56:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 15:58:54] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 15:58:55] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 16:00:43] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 16:00:44] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 16:00:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 16:04:15] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-May-2009 16:04:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 08:10:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 08:10:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 09:41:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 09:41:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 09:42:09] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 09:42:18] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 09:42:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 09:42:39] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 09:42:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:04:13] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:04:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:08:44] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:08:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:09:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:19:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:20:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:29:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:31:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:52] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:42:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:43:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:43:09] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:44:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:50:13] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:50:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:51:02] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:51:04] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:51:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:51:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:53:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:57:06] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:57:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:57:20] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:57:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:57:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:57:55] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:57:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:58:09] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:58:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:58:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:58:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:58:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:58:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:59:05] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:59:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:59:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 10:59:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:04] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:06] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:20] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:37] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:00:54] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:06] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:09] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:18] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:37] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:01:50] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:02:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:02:35] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:02:37] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:03:29] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:04:00] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:04:03] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:04:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:05:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:05:10] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:05:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:05:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:05:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:05:52] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:05:54] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:07:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:07:37] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:09:09] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:09:10] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:09:30] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:09:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:13:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:13:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:15:10] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:15:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:15:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:16:35] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:16:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:19:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:19:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:19:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:21:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:21:13] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:22:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:22:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:24:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:24:44] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:25:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:25:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:26:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:27:00] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:28:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:28:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:29:06] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:30:04] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:30:05] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:30:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:30:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:31:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:31:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:31:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:31:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:32:21] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:32:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:32:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:35:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:35:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:36:06] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:36:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:37:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:38:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:38:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:38:29] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:39:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:39:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:39:37] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:39:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:41:13] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:41:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:41:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:41:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:42:10] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-May-2009 11:42:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2010 08:30:03] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 08:54:58] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 08:55:01] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 08:55:37] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:20:28] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:20:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:30:12] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:30:15] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:40:16] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:40:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:40:33] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:43:27] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:43:28] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:45:44] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:46:04] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:49:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:49:32] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:49:43] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:50:41] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:52:53] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:52:56] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:52:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:55:06] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:55:15] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:55:25] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:55:27] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:57:42] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 09:57:56] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:00:40] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:00:42] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:01:10] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:01:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:01:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:01:36] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:04:12] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:04:59] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:08:47] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:08:49] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:10:49] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:11:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:11:32] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:12:15] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:14:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:14:32] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:15:46] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:15:50] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:16:00] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:16:02] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:24:55] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:24:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:25:10] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:25:16] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:25:20] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:25:33] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:25:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:26:19] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:34:45] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:34:46] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:48:45] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:48:47] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:58:42] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 10:58:44] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:09:21] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:09:24] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:18:24] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:18:26] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:24:08] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:24:13] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:25:18] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:25:20] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:36:49] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:36:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:50:49] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 11:50:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:06:16] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:06:19] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:11:56] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:12:02] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:24:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:24:25] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:35:48] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:35:50] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:39:08] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:39:11] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:39:25] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:39:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:39:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:50:47] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:50:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:51:44] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:51:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:55:36] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 12:55:44] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:04:24] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:04:26] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:05:04] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:05:11] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:13:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:13:34] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:13:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:14:02] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:14:07] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:19:34] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:19:47] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:19:55] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:19:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:10] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:19] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:28] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:36] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:52] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:20:59] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:21:01] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:21:07] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:21:12] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:21:16] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:21:22] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:21:27] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:21:31] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:22:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:22:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:22:59] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:08] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:15] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:16] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:28] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:33] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:37] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:23:52] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:24:01] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:24:07] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:24:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:24:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:24:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:33:40] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:33:49] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:33:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:33:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:34:02] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:34:08] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:34:48] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:34:50] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:34:56] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:03] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:05] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:10] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:20] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:22] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:36] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:41] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:46] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:48] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:35:53] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:07] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:14] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:19] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:32] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:34] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:43] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:48] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:50] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:36:55] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:00] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:02] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:06] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:11] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:15] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:22] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:27] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:29] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:45] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:37:52] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:00] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:09] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:10] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:18] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:22] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:34] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:48] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:49] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:38:58] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:17] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:24] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:25] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:36] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:38] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:43] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:48] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:49] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:39:59] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:06] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:07] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:18] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:25] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:32] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:44] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:54] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:40:59] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:03] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:08] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:17] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:21] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:32] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:36] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:37] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:41] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:46] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:48] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:53] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:41:59] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:07] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:12] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:15] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:21] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:27] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:28] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:40] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:42:43] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:43:19] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:43:20] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:43:22] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:46:42] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:46:45] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:50:45] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:51:27] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:56:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:56:43] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:56:46] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:56:47] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:56:56] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:56:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 13:57:14] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:00:47] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:08:19] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:08:21] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:08:53] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:09:02] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:11:01] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:11:07] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:29:55] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:30:51] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:33:14] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:33:17] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:33:53] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:40:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:40:38] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:44:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 14:44:33] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:00:04] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:00:06] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:07:38] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:07:39] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:18:17] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:18:19] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:19:53] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:20:06] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:20:20] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:20:22] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:21:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:27:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:27:24] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:34:08] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:34:09] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:38:33] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:38:35] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:39:34] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:39:44] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:44:00] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:44:01] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:44:32] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:47:21] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:53:54] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 15:53:56] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:04:02] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:04:09] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:11:21] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:11:23] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:19:15] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:19:18] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:26:28] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:26:30] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:32:52] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:32:54] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:33:41] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:33:45] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:33:57] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 16:33:58] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 17:13:52] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 17:14:26] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[22-Feb-2010 17:14:33] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0

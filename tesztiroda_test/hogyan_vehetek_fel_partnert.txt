@@ -1,0 +1,15 @@
+
+    1. Nyomj F4-et a "partners.txt" filera állítva
+    
+    2. A dupla kettõspont varázskarakterekkel elválasztva tudsz beírni új partnert
+    
+    3. Sorrend: LINK http://-el majd :: Link szövege, amire kattinthat a látogató majd :: és opcinálisan 
+       egy kis magyarázó szöveg is kerülhet oda, amit a rendszer automatikusan kötõjellel választ el
+       
+    4. Példa: 
+        http://www.mimi.hu::MiMi.hu::Minden, amit tudni akar.
+
+        Ez a sor az alábbi kimenetet adja: 
+        
+        MiMi.hu - Minden, amit tudni akar. 
+        ( a MiMi.hu kattintható lesz )

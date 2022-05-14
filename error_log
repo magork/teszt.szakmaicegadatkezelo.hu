@@ -1,0 +1,158 @@
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 207
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 212
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 217
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 221
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 237
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 241
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 245
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 249
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 253
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 316
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 320
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 324
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 329
+[12-May-2022 21:56:15 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 333
+[12-May-2022 21:58:05 Europe/Budapest] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:58:07 Europe/Budapest] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:58:07 Europe/Budapest] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:58:08 Europe/Budapest] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:58:08 Europe/Budapest] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:58:08 Europe/Budapest] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 207
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 212
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 217
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 316
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 320
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 324
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 329
+[12-May-2022 21:58:43 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 333
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 207
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 212
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 217
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 316
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 320
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 324
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 329
+[12-May-2022 22:00:39 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 333
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 207
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 212
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 217
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 316
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 320
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 324
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 329
+[12-May-2022 22:00:40 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 333
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 207
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 212
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 217
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 312
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 316
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 320
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 324
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 329
+[12-May-2022 22:00:41 Europe/Budapest] PHP Notice:  Undefined variable: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 333
+[12-May-2022 22:02:43 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:02:43 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:02:47 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:02:47 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:37 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:37 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:39 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:39 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:39 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:39 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:40 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:40 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:41 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:06:41 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:42 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:42 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:43 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:43 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:44 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:44 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:57 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:07:57 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:09:29 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:09:29 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:09:30 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:09:30 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:09:30 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:09:30 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:13:45 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:13:45 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 209
+[12-May-2022 22:15:01 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[12-May-2022 22:15:01 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[12-May-2022 22:15:05 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[12-May-2022 22:15:05 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[13-May-2022 19:00:32 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[13-May-2022 19:00:32 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[13-May-2022 20:22:25 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[13-May-2022 20:22:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 210
+[13-May-2022 20:40:27 Europe/Budapest] PHP Notice:  Undefined index: do in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 206
+[13-May-2022 20:40:27 Europe/Budapest] PHP Notice:  Undefined variable: main in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 211
+[13-May-2022 20:40:27 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function init() on null in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/szakmaic/teszt.szakmaicegadatkezelo.hu/index.php on line 211

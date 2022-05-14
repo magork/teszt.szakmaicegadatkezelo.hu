@@ -1,0 +1,111 @@
+<h2>Az Online Kereső Cégcsoport Kft. online hirdet&eacute;si fel&uuml;let&eacute;n (<?php echo $_SERVER['HTTP_HOST']; ?>) megjelen&#337; hirdet&eacute;sek megjelentet&eacute;s&eacute;hez &eacute;s a kapcsol&oacute;d&oacute; szolg&aacute;ltat&aacute;sok ig&eacute;nybev&eacute;tel&eacute;hez.</h2>
+
+<br>
+<b>1. Megrendel&eacute;s telefonon, e-meilben, faxon, lev&eacute;lben:</b>
+<br>
+
+<p>Hirdet&eacute;si szolg&aacute;ltat&aacute;s megrendel&eacute;se az &uuml;gyfelek r&eacute;sz&eacute;r&#337;l az Online Kereső Cégcsoport Kft. online hirdet&eacute;si fel&uuml;let&eacute;n (<?php echo $_SERVER['HTTP_HOST']; ?>) t&ouml;rt&eacute;nhet telefonon, e-mailben, faxon, de ak&aacute;r lev&eacute;lben is. A felsorolt megrendel&eacute;si form&aacute;k b&aacute;rmelyik&eacute;n az &uuml;gyf&eacute;l r&aacute;mutat&oacute; magatart&aacute;s&aacute;val megrendeli az &aacute;ltala kiv&aacute;lasztott szolg&aacute;ltat&aacute;st.</p>
+
+<p> </p>
+<br>
+<p><b>2. Szerz&#337;d&eacute;s l&eacute;trej&ouml;tte</b></p>
+
+<p>B&aacute;rmelyik, 1.-es pontban felsorolt megrendel&eacute;si form&aacute;ban be&eacute;rkez&#337; megrendel&eacute;s alapj&aacute;n az Online Kereső Cégcsoport Kft. Szolg&aacute;ltat&oacute;i Szerz&#337;d&eacute;st, valamint egy ehhez kapcsol&oacute;d&oacute;, az adott id&#337;szakra vonatkoz&oacute; szolg&aacute;ltat&aacute;s ellen&eacute;rt&eacute;k&eacute;nek &ouml;sszeg&eacute;t tartalmaz&oacute; D&iacute;jbek&eacute;r&#337;t vagy &Aacute;fa elsz&aacute;mol&aacute;sra alkalmas sz&aacute;ml&aacute;t &aacute;ll&iacute;t ki &eacute;s juttat el az &uuml;gyfelei r&eacute;sz&eacute;re. A Szolg&aacute;ltat&aacute;si Szerz&#337;d&eacute;s al&aacute;&iacute;r&aacute;s&aacute;val vagy/&eacute;s a mell&eacute;kelt D&iacute;jbek&eacute;r&#337; vagy Sz&aacute;mla kiegyenl&iacute;t&eacute;s&eacute;vel az &Uuml;gyf&eacute;l (Megb&iacute;z&oacute;) &eacute;s az Online Kereső Cégcsoport Kft.  (Szolg&aacute;ltat&oacute;, egy&uuml;ttesen Felek) k&ouml;z&ouml;tt Szerz&#337;d&eacute;s j&ouml;n l&eacute;tre. A Szerz&#337;d&eacute;st a Felek k&uuml;l&ouml;n meg&aacute;llapod&aacute;s alapj&aacute;n, szabadon m&oacute;dos&iacute;thatj&aacute;k. A k&uuml;l&ouml;n meg&aacute;llapod&aacute;s form&aacute;ja: lev&eacute;lben, faxon vagy e-mailben.</p>
+
+<p> </p>
+
+<p>Megb&iacute;z&oacute; vagy a nev&eacute;ben elj&aacute;r&oacute; szem&eacute;ly a Szolg&aacute;ltat&aacute;si Szerz&#337;d&eacute;s al&aacute;&iacute;r&aacute;s&aacute;val vagy/&eacute;s ehhez kapcsol&oacute;d&oacute; D&iacute;jbek&eacute;r&#337; vagy Sz&aacute;mla kiegyenl&iacute;t&eacute;s&eacute;vel elismeri, hogy jogosult az adott int&eacute;zm&eacute;ny, v&aacute;llalkoz&aacute;s, stb. nev&eacute;ben szerz&#337;d&eacute;st k&ouml;tni.</p>
+
+<p> </p>
+
+<p>Visszautas&iacute;thatja a Szolg&aacute;ltat&oacute; a megrendel&eacute;st, ha a Megb&iacute;z&oacute; lej&aacute;rt hat&aacute;ridej&#369; tartoz&aacute;ssal rendelkezik vagy ha annak teljes&iacute;t&eacute;se &uuml;zleti &eacute;rdekeit s&eacute;rti.</p>
+
+<p> </p>
+<br>
+<p><b>3. A Szerz&#337;d&eacute;s alapj&aacute;n teljes&iacute;tett szolg&aacute;ltat&aacute;s</b></p>
+
+<p>A l&eacute;trej&ouml;tt Szerz&#337;d&eacute;s alapj&aacute;n Szolg&aacute;ltat&oacute; v&aacute;llalja, hogy az abban megjel&ouml;lt szolg&aacute;ltat&aacute;st teljes&iacute;ti, &eacute;s ezen bel&uuml;l a Megb&iacute;z&oacute; &aacute;ltal telefonon, e-mailben, faxon vagy lev&eacute;lben megadott inform&aacute;ci&oacute;kat a Szolg&aacute;ltat&oacute; &aacute;ltal &uuml;zemeltetett online hirdet&eacute;si fel&uuml;let&eacute;n megjelenteti. A k&ouml;zz&eacute;t&eacute;tel felt&eacute;tele, hogy Megb&iacute;z&oacute; az ahhoz sz&uuml;ks&eacute;ges adatokat, k&eacute;peket, stb. teljes k&ouml;r&#369;en Szolg&aacute;ltat&oacute; rendelkez&eacute;s&eacute;re bocs&aacute;ssa, valamint a szolg&aacute;ltat&aacute;s ideje alatt a megjelentetett adatokban esetlegesen bek&ouml;vetkezett v&aacute;ltoz&aacute;st Szolg&aacute;ltat&oacute;n&aacute;l azonnal &iacute;r&aacute;sban jelezze.</p>
+<br>
+<p><b>  4. Adatok k&ouml;zz&eacute;t&eacute;tele</b></p>
+
+<p>Szolg&aacute;ltat&oacute; jogosult f&ouml;l&uuml;lvizsg&aacute;lni a Megb&iacute;z&oacute; &aacute;ltal megjelentetni k&iacute;v&aacute;nt sz&ouml;veges, k&eacute;pi, stb. inform&aacute;ci&oacute;t. A Szolg&aacute;ltat&oacute; visszautas&iacute;thatja a megrendel&eacute;st, f&ouml;lmondhatja a Szerz&#337;d&eacute;st, &eacute;s t&ouml;r&ouml;lheti az adatokat, amennyiben a Megb&iacute;z&oacute; &aacute;ltal k&ouml;z&ouml;lt adatok k&ouml;zz&eacute;t&eacute;tele jogszab&aacute;lyt vagy etikai norm&aacute;t s&eacute;rtene.</p>
+
+<p>Megb&iacute;z&oacute; felel&#337;s az&eacute;rt, hogy az &aacute;ltala k&ouml;zreadott inform&aacute;ci&oacute; ne s&eacute;rtsen jogszab&aacute;lyt &eacute;s etikai, erk&ouml;lcsi norm&aacute;kat. Megb&iacute;z&oacute; felel&#337;ss&eacute;ge att&oacute;l f&uuml;ggetlen&uuml;l fenn&aacute;ll, hogy az &aacute;ltala megadott adatokat &eacute;s egy&eacute;b inform&aacute;ci&oacute;kat a Szolg&aacute;ltat&oacute; fel&uuml;lvizsg&aacute;lja-e.</p>
+
+<p> </p>
+
+<p>Megb&iacute;z&oacute; v&aacute;llalja, hogy az &aacute;ltala k&ouml;zz&eacute;tett inform&aacute;ci&oacute;kban &eacute;s adatokban t&ouml;rt&eacute;nt v&aacute;ltoz&aacute;st halad&eacute;ktalanul tov&aacute;bb&iacute;tja a Szolg&aacute;ltat&oacute; fel&eacute;, melyet az 48 &oacute;r&aacute;n bel&uuml;l online fel&uuml;let&eacute;n d&iacute;jmentesen r&ouml;gz&iacute;t.</p>
+<br>
+<p><b> 5. Szerz&#337;d&eacute;s teljes&iacute;t&eacute;se</b></p>
+
+<p>Akkor tekintik teljes&iacute;tettnek a Szerz&#337;d&eacute;st a Felek, ha az al&aacute;&iacute;rt vagy/&eacute;s kifizetett Szolg&aacute;ltat&aacute;si Szerz&#337;d&eacute;sben megjel&ouml;lt hirdet&eacute;si forma megjelent. Min&#337;s&eacute;gi kifog&aacute;st a Megb&iacute;z&oacute; a szolg&aacute;ltat&aacute;s megkezd&eacute;s&eacute;t&#337;l annak befejez&eacute;s&eacute;ig tehet. A hirdet&eacute;s k&ouml;zz&eacute;t&eacute;tel&eacute;nek megsz&uuml;ntet&eacute;s&eacute;vel a Szerz&#337;d&eacute;s hat&aacute;ly&aacute;t veszti, kiv&eacute;ve a titoktart&aacute;si k&ouml;vetelm&eacute;nyeket.</p>
+<br>
+<p><b>6. Szerz&#337;d&eacute;s ellen&eacute;rt&eacute;ke</b></p>
+
+<p>Megb&iacute;z&oacute; v&aacute;llalja, hogy a Szerz&#337;d&eacute;sben r&ouml;gz&iacute;tett ellen&eacute;rt&eacute;ket Szolg&aacute;ltat&oacute; &aacute;ltal a Szerz&#337;d&eacute;s teljes&iacute;t&eacute;s&eacute;t k&ouml;vet&#337;en ki&aacute;ll&iacute;tott sz&aacute;mla alapj&aacute;n, hat&aacute;rid&#337;re kifizeti. K&eacute;sedelmes fizet&eacute;s eset&eacute;n a Megb&iacute;z&oacute; az esed&eacute;kess&eacute;gkori jegybanki alapkamat k&eacute;tszeres&eacute;nek megfelel&#337; kamatot k&ouml;teles fizetni. Amennyiben a Megrendel&#337; a felsz&oacute;l&iacute;t&aacute;sra sem tesz eleget fizet&eacute;si k&ouml;telezetts&eacute;g&eacute;nek, a Szolg&aacute;ltat&oacute; jogosult a Szolg&aacute;ltat&aacute;s ny&uacute;jt&aacute;s&aacute;t felf&uuml;ggeszteni.</p>
+<br>
+<p><b>7. A Szerz&#337;d&eacute;s felmond&aacute;sa</b></p>
+
+<p>A Szerz&#337;d&eacute;st a Megb&iacute;z&oacute; a megrendelt szolg&aacute;ltat&aacute;s teljes&iacute;t&eacute;s&eacute;t megel&#337;z&#337;en (a hirdet&eacute;s megjelen&eacute;s&eacute;ig vagy egy&eacute;b szolg&aacute;ltat&aacute;s megkezd&eacute;s&eacute;ig) k&ouml;tb&eacute;r n&eacute;lk&uuml;l felmondhatja, amennyiben a felmond&aacute;sr&oacute;l sz&oacute;l&oacute; &eacute;rtes&iacute;t&eacute;st a Megb&iacute;z&oacute; a megrendel&eacute;s napj&aacute;t k&ouml;vet&#337; &ouml;t&ouml;dik munkanapon bel&uuml;l, hitelt &eacute;rdeml&#337; m&oacute;don &eacute;s egy&eacute;rtelm&#369; sz&ouml;vegez&eacute;ssel Szolg&aacute;ltat&oacute;nak eljuttatja.</p>
+
+<p> </p>
+
+<p>Amennyiben a Megb&iacute;z&oacute; a teljes&iacute;t&eacute;s&eacute;t (a hirdet&eacute;s megjelen&eacute;s&eacute;t) k&ouml;vet&#337;en mondja fel a Szerz&#337;d&eacute;st, a teljes szerz&#337;d&ouml;tt ellen&eacute;rt&eacute;ket k&ouml;teles megfizetni.</p>
+
+<p> </p>
+
+<p>Az ellen&eacute;rt&eacute;k megfizet&eacute;se mellett a Megb&iacute;z&oacute; k&eacute;rheti a szolg&aacute;ltat&aacute;s hat&aacute;rid&#337; el&#337;tti befejez&eacute;s&eacute;t, megsz&uuml;ntet&eacute;s&eacute;t.</p>
+
+<p> </p>
+
+<p>Szolg&aacute;ltat&oacute; &#8222;A Szerz&#337;d&eacute;s l&eacute;trej&ouml;tte&rdquo; &eacute;s az &#8222;Inform&aacute;ci&oacute;k k&ouml;zz&eacute;t&eacute;tele&rdquo; fejezetben le&iacute;rt kiz&aacute;r&oacute; okokra hivatkozva a k&ouml;zz&eacute;t&eacute;telt k&ouml;tb&eacute;r n&eacute;lk&uuml;l megsz&#369;ntetheti.</p>
+
+<p> </p>
+
+<p>Szolg&aacute;ltat&oacute; a k&ouml;zz&eacute;t&eacute;telt k&ouml;tb&eacute;r n&eacute;lk&uuml;l is megsz&#369;ntetheti, amennyiben a Megb&iacute;z&oacute; az ellen&eacute;rt&eacute;ket nem fizeti meg hat&aacute;rid&#337;re.</p>
+<br>
+<p><b>8. Min&#337;s&eacute;g, egy&eacute;b elj&aacute;r&aacute;sok</b></p>
+
+<p>Megb&iacute;z&oacute; v&aacute;llalja, hogy a k&ouml;zz&eacute;t&eacute;telt k&ouml;vet&#337;en halad&eacute;ktalanul ellen&#337;rzi a szolg&aacute;ltat&aacute;s min&#337;s&eacute;g&eacute;t, &eacute;s esetleges kifog&aacute;s&aacute;t a lehet&#337; legr&ouml;videbb id&#337;n bel&uuml;l jelzi Szolg&aacute;ltat&oacute; fel&eacute;.</p>
+
+<p> </p>
+
+<p>A Felek tudom&aacute;sul veszik, hogy az online hirdet&eacute;si fel&uuml;let megjelen&eacute;s&eacute;t csak megfelel&#337; b&ouml;ng&eacute;sz&#337;k t&aacute;mogatj&aacute;k.</p>
+
+<p> </p>
+
+<p>Nem k&eacute;pezheti kifog&aacute;s alapj&aacute;t, ha Szolg&aacute;ltat&oacute; a t&aacute;vk&ouml;zl&eacute;si n&eacute;vsorok vagy a kapcsol&oacute;d&oacute; szolg&aacute;ltat&aacute;sok fejleszt&eacute;se c&eacute;lj&aacute;b&oacute;l m&oacute;dos&iacute;tja azok tartalm&aacute;t, megjelen&eacute;s&eacute;t, stb.</p>
+
+<p> </p>
+
+<p>A Felek meg&aacute;llapodnak abban, hogy min&#337;s&eacute;gi kifog&aacute;s vagy Szolg&aacute;ltat&oacute;nak Megb&iacute;z&oacute; &aacute;ltal felr&oacute;tt b&aacute;rmely hiba felmer&uuml;l&eacute;s&eacute;t k&ouml;vet&#337;en, halad&eacute;ktalanul egyeztetnek a kifog&aacute;s indokolts&aacute;g&aacute;r&oacute;l, &eacute;s az esetleges kompenz&aacute;ci&oacute;r&oacute;l.</p>
+
+<p> </p>
+
+<p>Megb&iacute;z&oacute; elfogadja, hogy a Felek megegyez&eacute;ssel le nem z&aacute;rt vit&aacute;s k&eacute;rd&eacute;seib&#337;l ered&#337; b&aacute;rmely fizet&eacute;si vagy kompenz&aacute;ci&oacute;s k&ouml;telezetts&eacute;g Szolg&aacute;ltat&oacute;t csak a vita t&aacute;rgy&aacute;t k&eacute;pez&#337; szolg&aacute;ltat&aacute;s ellen&eacute;rt&eacute;k&eacute;ig terjed&#337;en terheli.</p>
+
+<p> </p>
+
+<p>Megb&iacute;z&oacute; harmadik szem&eacute;ly &aacute;ltal elk&ouml;vetett vissza&eacute;l&eacute;s, valamint az internetes szolg&aacute;ltat&aacute;s kimarad&aacute;sa eset&eacute;n Szolg&aacute;ltat&oacute; ellen felmer&uuml;lt kifog&aacute;s&aacute;t nem tereli jogi &uacute;tra.</p>
+
+<p> </p>
+
+<p>Vit&aacute;s esetekb&#337;l ered&#337; esetleges anyagi k&ouml;vetel&eacute;seket a Megb&iacute;z&oacute; nem engedm&eacute;nyezheti harmadik f&eacute;lre.</p>
+<br>
+<p><b>9. Titoktart&aacute;s</b></p>
+
+<p>A Felek k&ouml;telezetts&eacute;get v&aacute;llalnak arra, hogy a Szerz&#337;d&eacute;s tartalm&aacute;t annak teljes&iacute;t&eacute;s&eacute;t k&ouml;vet&#337; 1 &eacute;ven bel&uuml;l &uuml;zleti titokk&eacute;nt kezelik. Nem min&#337;s&uuml;l &uuml;zleti titoknak az az inform&aacute;ci&oacute;, amely harmadik f&eacute;l &aacute;ltal szabadon megismerhet&#337;.</p>
+
+<br>
+<p><b>10. Z&aacute;rad&eacute;k</b></p>
+
+<p>A Felek kijelentik, hogy ismerik Szolg&aacute;ltat&oacute; online hirdet&eacute;si fel&uuml;let&eacute;n el&eacute;rhet&#337; Adatkezel&eacute;si Felt&eacute;teleket, &eacute;s annak rendelkez&eacute;seit magukra n&eacute;zve a jelen Szerz&#337;d&eacute;s r&eacute;szek&eacute;nt k&ouml;telez&#337; erej&#369;nek tekintik.</p>
+
+<p> </p>
+
+<p>Megb&iacute;z&oacute; kijelenti, hogy az online megrendel&eacute;st szab&aacute;lyoz&oacute; &uacute;tmutat&oacute; sz&ouml;vegeket elolvast&aacute;k, &eacute;s az abban foglalt k&ouml;telez&#337; korl&aacute;toz&aacute;sokat a jelen Szerz&#337;d&eacute;s r&eacute;szek&eacute;nt betartj&aacute;k.</p>
+
+<p> </p>
+
+<p>A Szerz&#337;d&eacute;s teljes&iacute;t&eacute;s&eacute;nek helye Budapest. A Felek a Pesti K&ouml;zponti Ker&uuml;leti B&iacute;r&oacute;s&aacute;g kiz&aacute;r&oacute;lagos illet&eacute;kess&eacute;g&eacute;t fogadj&aacute;k el megoldatlan jogvita eset&eacute;n.</p>
+ 

@@ -1,0 +1,60 @@
+manager_stat.php
+------------------------------------------------------
+Notice: Undefined variable: feltet in F:\Dev\www\Active\Telemarketing\manager_stat.php on line 32
+
+manager_kereso.php
+------------------------------------------------------
+Notice: Undefined index: kszur in F:\Dev\www\Active\Telemarketing\manager_kereso.php on line 39
+
+Notice: Undefined index: kusname in F:\Dev\www\Active\Telemarketing\manager_kereso.php on line 43
+
+Notice: Undefined index: kcid in F:\Dev\www\Active\Telemarketing\manager_kereso.php on line 47
+
+Notice: Undefined index: kcegnev in F:\Dev\www\Active\Telemarketing\manager_kereso.php on line 51
+
+Notice: Undefined index: kcim in F:\Dev\www\Active\Telemarketing\manager_kereso.php on line 55
+
+Notice: Undefined index: kregdatK in F:\Dev\www\Active\Telemarketing\manager_kereso.php on line 59
+
+Notice: Undefined index: kregdatV in F:\Dev\www\Active\Telemarketing\manager_kereso.php on line 63
+
+
+manager_cegeim.php
+------------------------------------------------------
+Notice: Undefined index: user in F:\Dev\www\Active\Telemarketing\config\config.php on line 58
+
+
+http://localhost/Active/Telemarketing/manager_cedit.php?id=31
+------------------------------------------------------
+Notice: Undefined index: user in F:\Dev\www\Active\Telemarketing\config\config.php on line 58
+
+Notice: Undefined index: felvdate in F:\Dev\www\Active\Telemarketing\manager_cedit.php on line 30
+
+Notice: Undefined index: moddate in F:\Dev\www\Active\Telemarketing\manager_cedit.php on line 31
+
+Notice: Undefined variable: uspass in F:\Dev\www\Active\Telemarketing\manager_cedit.php on line 47
+
+Notice: Undefined variable: uslim in F:\Dev\www\Active\Telemarketing\manager_cedit.php on line 48
+
+
+
+------------------------------------------------------
+Szerkesztés:
+
+
+------------------------------------------------------
+36-as azonosítójú üzletkötõ szerkesztése
+
+Fatal error: Call to undefined function: str_split() in F:\Dev\www\Active\Telemarketing\functions\functions.php on line 55
+
+/* PHP 5 SPECKÓ FGV lenne? Nekem 4-es van.
+
+
+
+
+
+
+
+
+
+

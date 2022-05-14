@@ -1,0 +1,35 @@
+Gratulálok!
+
+Ha ezt az üzenetet olvasod, akkor sikerült bejelentkezned a tárhelyedre :)
+
+Most valószínűleg a következő kérdés foglalkoztat:
+
+=== Milyen feladatok állnak előttem? ===
+
+  * Feltehetőleg fel szeretnéd tölteni a honlapot a tárhelyre,
+  * létre szeretnéd hozni az e-mail címeket, be szeretnéd állítani a levelezőprogramot,
+  * ha van adatbázis a tárhelyhez, akkor létre szeretnéd hozni és feltölteni adatokkal,
+  * illetve szeretnéd látni, hogy hogyan jönnek-mennek a látogatók a honlapon.
+
+Hogy egyszerűbb legyen a dolgod, ezekkel a témakörökkel kapcsolatban készítettünk néhány leírást:
+
+  * Honlap feltöltése --> http://tudasbazis.gyumolcstarhely.hu/wiki:webtarhely
+  * E-mail címek használatbavétele --> http://tudasbazis.gyumolcstarhely.hu/wiki:e-mail
+  * Adatbázis --> http://tudasbazis.gyumolcstarhely.hu/wiki:adatbazis
+  * Látogatottság --> http://tudasbazis.gyumolcstarhely.hu/wiki:latogatottsag
+
+Remélem tudtam segíteni :)
+
+Amennyiben bármilyen más kérdés merülne fel, kérlek keress meg a következő elérhetőségek bármelyikén.
+
+Üdvözlettel,
+
+Fenyvesi István
+Gyümölcstárhely Ügyfélszolgálat
+-- 
+Tudásbázis: http://tudasbazis.gyumolcstarhely.hu/
+Honlap: http://www.gyumolcstarhely.hu/
+E-mail: ugyfelszolgalat@gyumolcstarhely.hu
+Telefon: +36 1 279 0525
+Fax: +36 1 279 0526
+Postacím: 1450 Budapest, pf: 203 

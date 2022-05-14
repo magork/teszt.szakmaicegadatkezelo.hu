@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^uzleticegtudakozo.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.uzleticegtudakozo.com$
+RewriteRule ^/?$ "http\:\/\/uzleticegtudakozo\.hu" [R=301,L]
+

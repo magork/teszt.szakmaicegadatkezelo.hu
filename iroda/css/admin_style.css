@@ -1,0 +1,297 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+	/*
+	 *
+	 *	HTML STYLES
+	 *
+	 */
+
+body{	
+	color: #000;
+	background-color: #fda;
+	font-family:arial,sans-serif;
+	font-size:12px;
+	background-image: url( '../images/admin_bg.png' );
+	background-repeat: repeat-x;
+}
+a, img{
+	color: black;
+	border: 0px;
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+	text-decoration: underline;
+}
+
+a.edit{
+	cursor: pointer;
+}
+
+legend{
+	color: #e8a022;
+	font-weight:bold;
+	font-family:arial,sans-serif;
+	font-size:12px;
+}
+	
+td{
+	color: #000;
+	font-family:arial,sans-serif;
+	font-size:12px;
+}
+	
+input{
+	font-family:arial,sans-serif;
+	font-size:12px;
+	margin: 2px;
+}
+
+	/*
+	 *
+	 *	...LAYOUT...
+	 *
+	 */
+	 
+.header{
+	height: 95px;
+	position: relative;
+}
+	 
+
+#content{
+	margin: 12px;
+}	 
+	 
+	/*
+	 *
+	 *	...STYLES...
+	 *
+	 */
+
+#details input, #details textarea{
+	width: 100%;
+}
+.selected{
+	background-color: #face8c;
+	color: #333;
+}
+
+.selected a{
+	color: #333;
+}
+
+.ok{
+	background-color: #090;
+	padding: 5px;
+	border: 1px solid #0f0;
+}
+.error{
+	background-color: #900;
+	padding: 5px;
+	border: 1px solid #f00;
+}
+
+.editor{
+	width: 600px;
+	height: 160px;
+}
+
+.cat_edit{
+	background-color: #333;
+	border-bottom: 1px solid #090;
+	height: 20px;
+}
+
+#showproc{
+	border:1px solid;
+	border-color: lightblue blue blue lightblue;
+	background-color: #87ceeb;
+	font-family:arial;
+	font-size: 14px;
+	padding: 5px;
+	position: absolute;
+	top:105px;
+	left:203px;
+}
+
+.szeles{
+	width: 400px;
+	padding: 3px;
+	font-size: 18px;
+}
+
+#sort li{
+	background-color: #eee;
+  padding: 5px;
+  list-style-type: none;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #999;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #999;
+  width: 200px;
+}
+
+/*
+ * 	MOOTOOLS TIPS
+ */
+ 
+.toolTipElement {
+	cursor: help;
+}
+.tool-tip {
+	background-color: #333;
+	color: #fff;
+	width: 200px;
+	z-index: 13000;
+	padding: 2px;
+}
+
+.tool-title {
+	font-weight: bold;
+	font-size: 11px;
+	margin: 0;
+	padding: 8px 8px 4px;
+}
+
+.tool-text {
+	font-size: 11px;
+	padding: 4px 8px 8px;
+}
+
+/*
+ *	Respect::Exploding boy
+ */
+
+/*- Menu Tabs 2--------------------------- */
+
+#tabs {
+  position: absolute;
+  bottom:0px;
+  left:0px;
+  width:100%;
+  font-size:93%;
+  line-height:normal;
+  border-bottom:1px solid #84776B;
+  }
+#tabs ul {
+  margin:0;
+  padding:10px 10px 0 10px;
+  list-style:none;
+  }
+#tabs li {
+  display:inline;
+  margin:0;
+  padding:0;
+  }
+#tabs a {
+  float:left;
+  background:url("../images/menu/tableft.gif") no-repeat left top;
+  margin:0;
+  padding:0 0 0 4px;
+  text-decoration:none;
+  }
+#tabs a span {
+  float:left;
+  display:block;
+  background:url("../images/menu/tabright.gif") no-repeat right top;
+  padding:5px 15px 4px 6px;
+  color:#84776B;
+  }
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs a span {float:none;}
+/* End IE5-Mac hack */
+#tabs a:hover span {
+  color:#74675B;
+  }
+#tabs a:hover {
+  background-position:0% -42px;
+  }
+#tabs a:hover span {
+  background-position:100% -42px;
+  }
+	
+/*- Menu Tabs K--------------------------- */ 	
+
+#tabsK {
+  float:left;
+  width:100%;
+  font-size:93%;
+  line-height:normal;
+  }
+#tabsK ul {
+margin:0;
+padding:10px 10px 0 3px;
+list-style:none;
+  }
+#tabsK li {
+  display:inline;
+  margin:0;
+  padding:0;
+  }
+#tabsK a {
+  float:left;
+  background:url("../images/menu/tableftK.gif") no-repeat left top;
+  margin:0;
+  padding:0 0 0 4px;
+  text-decoration:none;
+  }
+#tabsK a span {
+  float:left;
+  display:block;
+  background:url("../images/menu/tabrightK.gif") no-repeat right top;
+  padding:5px 15px 4px 6px;
+  color:#FFF;
+  }
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabsK a span {float:none;}
+/* End IE5-Mac hack */
+#tabsK a:hover span {
+  color:#FFF;
+  background-position:100% -42px;
+  }
+#tabsK a:hover {
+  background-position:0% -42px;
+  }
+#tabsK a:hover span {
+  background-position:100% -42px;
+  }
+
+
+/* --- */
+
+.tab{
+  width: 60%;
+}
+
+.tab .pages {
+  clear: both;
+  border: 1px solid #919B9C;
+  /*border-top: 0px solid #919B9C;*/
+  font-size: 12px;
+}
+
+.tab .page {
+  background-color: #FCFCFE;
+  padding: 5px;
+}
+
+.tab .pages .page .pad {
+  background-color: #F9F9F9;
+  border: 1px solid #D5D5D5;
+  padding: 5px;
+  min-height: 100px;
+  font-size: 12px;
+}
+
+.tab .pages .page .minipad {
+  background-color: #F9F9F9;
+  border: 1px solid #D5D5D5;
+  padding: 5px;
+  min-height: 165px;
+  _height: 165px;
+}
