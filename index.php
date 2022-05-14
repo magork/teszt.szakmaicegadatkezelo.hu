@@ -1,8 +1,6 @@
 <?php 
-
 header('content-type: text/html; character-set: utf-8');
 session_start();
-
 
 $auth = ( isset( $_SESSION['auth'] ) ) ? $_SESSION['auth'] : 'nope';
 $cid = ( isset( $_SESSION['cid'] ) ) ? $_SESSION['cid'] : 'nope';
@@ -22,51 +20,29 @@ $_SESSION['lang'] = ( isset( $_SESSION['lang'] ) ) ? $_SESSION['lang'] : $defLan
 $lang = $_SESSION['lang'];
 
 
-
+//
 	include('data/dict.php');
 	include('config/config.php');
-	//include('admin/src/mainframe.class.php');	
-	require_once "admin/src/mainframe.class.php";
-	
+	include('admin/src/mainframe.class.php');
+//
+// 
+$do = isset( $_GET['do'] ) ? $_GET['do'] : 'default';
 
+if( $do == 'comp_list' || $do == 'comp_search' ){
 
-try {
-    // connect
-	$connection = mysqli_connect(_MYDB_HOST, _MYDB_USER,_MYDB_PASS,_MYDB_DATABASE);
-	$sql = "SELECT id, user, pass FROM felhasznalok";
-$result = $connection->query($sql);
-var_dump($result->fetch_assoc());
+	include('pagina.class.php');
+	$pages = new MyPagina;
 
-  
-} catch (Exception $e) {
-    echo 'Caught exception: ',  $e->getMessage(), "\n";
-exit();
+} else{
+
+	include('mysql/connect.php');
+	include( _PATH_CORE_EZRESULTS );
+	$ezr = new ez_results;
+
 }
 
+$main = new mainframe;
 
-  
-
-
-$do = isset( $_GET['do'] ) ? $_GET['do'] : 'default';
-//
-//
-//if( $do == 'comp_list' || $do == 'comp_search' ){
-//
-//	include('pagina.class.php');
-//
-//	$pages = new MyPagina;
-//
-//} else{
-//
-//	include('mysql/connect.php');
-//
-//	include( _PATH_CORE_EZRESULTS );
-//	$ezr = new ez_results;
-//
-//}
-//
-//$main = new mainframe;
-//
 //
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -130,16 +106,13 @@ function draw_map(id, address, theId ) {
 
 <body>
 
-
-
 <!-- wrapper -->
 <div class="rapidxwpr floatholder">
 
   <!-- header -->
   <div id="header">
-   
+  
   	<div style="text-align:right">
-	        
 			<?php if( $lang !== 'hu' ){ ?><a href="switch_lang.php?lang=hu"><img src="images/hu.gif" /></a><?php } ?>
 			<?php if( $lang !== 'en' ){ ?><a href="switch_lang.php?lang=en"><img src="images/gb.gif" /></a><?php } ?>
 			<?php if( $lang !== 'de' ){ ?><a href="switch_lang.php?lang=de"><img src="images/de.gif" /></a><?php } ?>
@@ -201,16 +174,14 @@ function draw_map(id, address, theId ) {
 			
 													CONTROLLER SECTION
 			***************************************************************************************************************************/
-		// csak az elso switch aktivalva
-		var_dump($do);
-		var_dump($_REQUEST['do']);
+		
 				switch( $do ){
 		
 					case "default":
 							echo '<h1>'.$dict[$lang]['tev'].'</h1>';
 							$main->init();
 					break;
-	
+
 					case "comp_list":
 							$parent = ( isset($_GET['parent']) ) ? $_GET['parent'] : '';
 							$main->comp_list( $_GET['cat'], $_GET['cat_name'], $parent );
@@ -220,40 +191,40 @@ function draw_map(id, address, theId ) {
 							$main->comp_show( $_GET['cid'], $_GET['cname'] );
 					break;
 		
-	//				case "comp_search":
-	//						$cname = ( isset($_GET['cname']) ) 	? 	$_GET['cname'] : '';
-	//						$cat = ( isset($_GET['cat']) ) 		? 	$_GET['cat'] : '';
-	//						$city = ( isset($_GET['city']) ) 	? 	$_GET['city'] : '';
-	//						$iso = ( isset($_GET['iso']) ) 		? 	$_GET['iso'] : '';
-	//						$brand = ( isset($_GET['brand']) ) 	? 	$_GET['brand'] : '';
-	//						$region = ( isset($_GET['region'])) ?	$_GET['region'] : '';
-	//						//
-	//						$type = ( isset($_GET['type']) ) ? $_GET['type'] : '';
-	//						// Felső kereső:
-	//						$key = ( isset($_GET['q']) ) ? $_GET['q'] : '';
-	//						//
-	//						$main->comp_search( urlencode($cname),urlencode($cat),urlencode($city),urlencode($iso),urlencode($brand),urlencode($region), $type, $key );
-	//						//
-	//				break;
-	//	
-	//				case "search":
-	//						$output = include('tpl/search.tpl');
-	//				break;
-	//	
-	//				case "about":
-	//						$output = include('tpl/about.tpl');
-	//				break;
-	//	
-	//				case "register":
-	//						$output = include('tpl/reg.tpl');
-	//				break;
-	//	
-	//				case "auth_failed":
-	//						echo "<br><br><strong>A belépés sikertelen volt...</strong>";
-	//				break;
-	//	
-	//				case "send_reg":
-	//						$message = "<h3>Cég neve:</h3> " . $_POST['comp'] ."\n<h3>Regisztráló neve:</h3> " . $_POST['user'] ."\n<h3>Telefonszáma:</h3> ". $_POST['tel'];
+					case "comp_search":
+							$cname = ( isset($_GET['cname']) ) 	? 	$_GET['cname'] : '';
+							$cat = ( isset($_GET['cat']) ) 		? 	$_GET['cat'] : '';
+							$city = ( isset($_GET['city']) ) 	? 	$_GET['city'] : '';
+							$iso = ( isset($_GET['iso']) ) 		? 	$_GET['iso'] : '';
+							$brand = ( isset($_GET['brand']) ) 	? 	$_GET['brand'] : '';
+							$region = ( isset($_GET['region'])) ?	$_GET['region'] : '';
+							//
+							$type = ( isset($_GET['type']) ) ? $_GET['type'] : '';
+							// Felső kereső:
+							$key = ( isset($_GET['q']) ) ? $_GET['q'] : '';
+							//
+							$main->comp_search( urlencode($cname),urlencode($cat),urlencode($city),urlencode($iso),urlencode($brand),urlencode($region), $type, $key );
+							//
+					break;
+		
+					case "search":
+							$output = include('tpl/search.tpl');
+					break;
+		
+					case "about":
+							$output = include('tpl/about.tpl');
+					break;
+		
+					case "register":
+							$output = include('tpl/reg.tpl');
+					break;
+		
+					case "auth_failed":
+							echo "<br><br><strong>A belépés sikertelen volt...</strong>";
+					break;
+		
+					case "send_reg":
+							$message = "<h3>Cég neve:</h3> " . $_POST['comp'] ."\n<h3>Regisztráló neve:</h3> " . $_POST['user'] ."\n<h3>Telefonszáma:</h3> ". $_POST['tel'];
 		/*
 							if( mail( 'cs.zotya@freemail.hu', 'Új regisztráció', $msg ) ){
 								echo"<p>&nbsp;</p>Köszönjük.<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"; 
