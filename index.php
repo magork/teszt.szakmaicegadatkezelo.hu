@@ -23,25 +23,38 @@ $lang = $_SESSION['lang'];
 //
 	include('data/dict.php');
 	include('config/config.php');
-	include('admin/src/mainframe.class.php');
-//
-// 
-$do = isset( $_GET['do'] ) ? $_GET['do'] : 'default';
+	//include('admin/src/mainframe.class.php');	
+	require_once "admin/src/mainframe.class.php";
+	
 
-if( $do == 'comp_list' || $do == 'comp_search' ){
 
-	include('pagina.class.php');
-	$pages = new MyPagina;
+try {
+    // connect
+	$connection = mysqli_connect(_MYDB_HOST, _MYDB_USER,_MYDB_PASS,_MYDB_DATABASE);
+	$sql = "SELECT id, user, pass FROM felhasznalok";
+$result = $connection->query($sql);
+var_dump($result->fetch_assoc());
 
-} else{
-
-	include('mysql/connect.php');
-	include( _PATH_CORE_EZRESULTS );
-	$ezr = new ez_results;
-
+  
+} catch (Exception $e) {
+    echo 'Caught exception: ',  $e->getMessage(), "\n";
+exit();
 }
+$do = isset( $_GET['do'] ) ? $_GET['do'] : 'default';
+// if( $do == 'comp_list' || $do == 'comp_search' ){
 
-$main = new mainframe;
+// 	include('pagina.class.php');
+// 	$pages = new MyPagina;
+
+// } else{
+
+// 	include('mysql/connect.php');
+// 	include( _PATH_CORE_EZRESULTS );
+// 	$ezr = new ez_results;
+
+// }
+
+// $main = new mainframe;
 
 //
 ?>
