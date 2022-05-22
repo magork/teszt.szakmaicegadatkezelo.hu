@@ -32,8 +32,8 @@ try {
     // connect
 	$connection = mysqli_connect(_MYDB_HOST, _MYDB_USER,_MYDB_PASS,_MYDB_DATABASE);
 	$sql = "SELECT id, user, pass FROM felhasznalok";
-$result = $connection->query($sql);
-var_dump($result->fetch_assoc());
+	$result = $connection->query($sql);
+	var_dump($result->fetch_assoc());
 
   
 } catch (Exception $e) {
@@ -154,13 +154,6 @@ function draw_map(id, address, theId ) {
 				<li><a href="?do=register"><span><?=$dict[$lang]['register']?></span></a></li>
 			</ul>
 	
-
-
-
-
-
-
-
     </div> 
 	
     <!-- / topmenu -->
@@ -187,12 +180,12 @@ function draw_map(id, address, theId ) {
 			
 													CONTROLLER SECTION
 			***************************************************************************************************************************/
-		
+		var_dump($do)
 				switch( $do ){
 		
 					case "default":
 							echo '<h1>'.$dict[$lang]['tev'].'</h1>';
-							$main->init();
+							//$main->init();
 					break;
 
 					case "comp_list":
